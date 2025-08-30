@@ -1,16 +1,26 @@
-# tic_tac_toe
+# Flutter Tic-Tac-Toe Game
+A simple, clean, and modern Tic-Tac-Toe game built with Flutter. This app provides a classic two-player experience on a single device, perfect for a quick match with a friend.
 
-A new Flutter project.
+## ✨ Features
+Two-Player Mode: Play against a friend on the same device.
 
-## Getting Started
+Interactive 3x3 Grid: A smooth and responsive game board.
 
-This project is a starting point for a Flutter application.
+Turn Indicator: Clearly shows whose turn it is ("Player X" or "Player O").
 
-A few resources to get you started if this is your first Flutter project:
+Win/Draw Detection: The app automatically detects and announces a win or a draw.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Animated Winning Line: A satisfying animation strikes through the winning combination.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Score Tracking: Keeps track of the score for the current session.
+
+Restart Game: A simple "Play Again" button to quickly start a new round.
+
+Polished UI: A sleek, dark-themed interface that's easy on the eyes.
+
+## 🛠️ Tech Stack
+Framework: Flutter
+
+Language: Dart
+
+State Management: setState (StatefulWidget)
